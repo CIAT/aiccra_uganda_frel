@@ -1,0 +1,15 @@
+﻿Class,Name,Description,Category,Category_Code,AG Carbon,BG Carbon,Total Carbon,Emission Factor
+1,Plantations broadleaved,Deciduous trees (e.g Eucalyptus sp.) ,Plantation,1,57.2,15.2,72.4,260.3
+2,Plantations coniferous,"Coniferous trees (e.g Pine, Cypressus) ",Plantation,1,57.2,15.2,72.4,260.3
+3,Tropical high forest well-stocked,Tropical High Forests—Normally Stocked ,Forest,2,115.7,27.8,143.4,526.4
+4,Tropical high forest low-stocked,Tropical High Forests—Depleted/encroached ,Forest,2,115.7,27.8,143.4,526.4
+5,Woodland,Trees and shrubs (average height > 4 m) ,Woodland,3,20,4.8,24.8,91
+6,Bushland,"Bush, thickets, scrub (average height < 4 m) ",Non-forest,4,,,,
+7,Grassland,"Rangelands, pasture land, open savannah; mainly in the cattle corridor (some scattered trees shrubs, scrubs and thickets may occur)",Non-forest,4,,,,
+8,Wetland,"Wetland vegetation; swamp areas, papyrus and other sedges ",Non-forest,4,,,,
+9,Subsistence farmland,"Mixed farmland, small holdings, in use or recently used, with or without trees ",Non-forest,4,,,,
+10,Commercial farmland,"Uniform/mono-cropped, non-seasonal farmland usually without trees eg tea and sugarcane estates ",Non-forest,4,,,,
+11,Built up areas,Urban or rural built up areas ,Non-forest,4,,,,
+12,Water,"large rivers, ponds and lakes",Water,5,,,,
+13,Impediment,bare rocks and soils ,Non-forest,4,,,,
+0,Unknown,Unknown,Non-forest,4,,,,
